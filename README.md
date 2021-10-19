@@ -40,8 +40,6 @@
 <br>
 <div>
 <a href="https://www.linkedin.com/in/dsanabriabr/">
-<img height="100%" src="https://github-readme-stats.vercel.app/api?username=dsanabriabr&theme=chartreuse-dark&show_icons=true"/>
-<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsanabriabr&theme=chartreuse-dark&layout=compact"/>
 <img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dsanabriabr&theme=github_dark"/>
 <img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dsanabriabr&theme=github_dark"/>
 <img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dsanabriabr&theme=github_dark"/>
