@@ -19,7 +19,7 @@
 
 ---
 
-###  Pro Specialists
+###  Pro Specialist
 
 <img src="https://img.shields.io/badge/-SwiftUI-AAAAAA?logo=swift&logoColor=orange&logoWidth=30"/><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/-ObjectiveC-488abb?logo=apple&logoColor=white&logoWidth=30"/>
 
@@ -35,13 +35,13 @@
 
 <img src="https://img.shields.io/badge/-ReactNative-00000B?logo=react&logoColor=blue&logoWidth=30"> <img src="https://img.shields.io/badge/-Flutter-0000F0?logo=flutter&logoColor=white&logoWidth=30"/><img src="https://img.shields.io/badge/-Kotlin_Multiplatform-7F52FF?logo=kotlin&logoColor=white&logoWidth=30"/>
 
-<img src="https://img.shields.io/badge/-Laravel-F05340?logo=php&logoColor=white&logoWidth=30"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-CSharp-239120?logo=dotnet&logoColor=white&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=30"/> 
+<img src="https://img.shields.io/badge/-Laravel+Tailwind-F05340?logo=php&logoColor=white&logoWidth=30"><img src="https://img.shields.io/badge/-React+Vite-000000?logo=react&logoColor=blue&logoWidth=30">
+
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-CSharp-239120?logo=dotnet&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=30"/> 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dsanabriabr&theme=github_dark" height="120"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dsanabriabr&theme=github_dark" height="120"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dsanabriabr&theme=github_dark" height="120"/>
