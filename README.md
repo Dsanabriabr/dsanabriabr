@@ -21,19 +21,23 @@
 
 ###  Pro Specialists
 
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="28"/>
+<img src="https://img.shields.io/badge/-SwiftUI-AAAAAA?logo=swift&logoColor=orange&logoWidth=30"/><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/-ObjectiveC-488abb?logo=apple&logoColor=white&logoWidth=30"/>
 
 ---
 
 ###  Management Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" height="28"/>
+<img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&logoWidth=30"/>
 
 ---
 
 ###  Technical Knowledge
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28"/>
+<img src="https://img.shields.io/badge/-ReactNative-00000B?logo=react&logoColor=blue&logoWidth=30"> <img src="https://img.shields.io/badge/-Flutter-0000F0?logo=flutter&logoColor=white&logoWidth=30"/><img src="https://img.shields.io/badge/-Kotlin_Multiplatform-7F52FF?logo=kotlin&logoColor=white&logoWidth=30"/>
+
+<img src="https://img.shields.io/badge/-Laravel-F05340?logo=php&logoColor=white&logoWidth=30"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=30"/> 
+<img src="https://img.shields.io/badge/-CSharp-239120?logo=dotnet&logoColor=white&logoWidth=30"/> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=30"/> 
 
 ---
 
